@@ -1,4 +1,6 @@
 # Assignment
+Creating a Python Flask Web Application and integrating it with ChatGPT API
+
 You can install Flask and other dependencies using pip, by running the following command in your terminal:
 pip install flask requests
 
